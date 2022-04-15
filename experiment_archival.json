@@ -1,0 +1,12 @@
+{
+  "project_name": "pm_solution",
+  "experiment_archival": [
+    {
+      "pipeline_name": "lstm_training",
+      "pipeline_runs": [
+        "run_1",
+        "run_2"
+      ]
+    }
+  ]
+}
